@@ -6,10 +6,19 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		90F649F82D120E6C00531E56 /* Cat Painting.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Cat Painting.txt"; sourceTree = "<group>"; };
+		90F649F92D120E7600531E56 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		90F649FA2D120E7E00531E56 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		90F649F12D120E6100531E56 = {
 			isa = PBXGroup;
 			children = (
+				90F649FA2D120E7E00531E56 /* styles.css */,
+				90F649F92D120E7600531E56 /* index.html */,
+				90F649F82D120E6C00531E56 /* Cat Painting.txt */,
 			);
 			sourceTree = "<group>";
 		};
