@@ -28,6 +28,8 @@ body {
     border-right: 35px solid transparent;
     border-bottom: 70px solid #5e5e5e;
     transform: rotate(45deg);
+    border-top-left-radius: 90px;
+    border-top-right-radius: 10px;
 }
 
 .cat-left-ear {
